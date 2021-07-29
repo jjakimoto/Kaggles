@@ -1,0 +1,6 @@
+# Ignore downloaded files
+*.csv
+*.zip
+
+# Ignore notebook
+.ipynb_checkpoints
